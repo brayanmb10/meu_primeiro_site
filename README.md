@@ -1,2 +1,2 @@
 # meu_primeiro_site
-repositorio destinado ao aprendizado de httml 
+repositorio destinado ao aprendizado de html 

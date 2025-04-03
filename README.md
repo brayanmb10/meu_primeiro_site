@@ -7,7 +7,7 @@
 https://brayanmb10.github.io/meu_primeiro_site/pasta/indexinline.html
 
 ## CSS interno
- https://brayanmb10.github.io/meu_primeiro_site/pasta/indexInterno.html
+ https://brayanmb10.github.io/meu_primeiro_site/pasta/indexInrterno.html
 ## CSS externo
 https://brayanmb10.github.io/meu_primeiro_site/pasta/indexexterno.html
 
